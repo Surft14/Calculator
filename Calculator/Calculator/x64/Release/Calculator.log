@@ -1,0 +1,24 @@
+﻿  MyCalc.cpp
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(619,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(671,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(705,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(709,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(713,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(717,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+C:\Users\Администратор\source\repos\Calculator\Calculator\MyCalc.h(721,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyCalc.cpp")
+  
+  MyCalc.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\Администратор\source\repos\Calculator\x64\Release\Calculator.exe
